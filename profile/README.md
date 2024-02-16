@@ -27,7 +27,7 @@ Join us in our mission to promote open-source learning! Here’s how you can con
 2. **Join our discussions** on GitHub Issues & Discussions.
 3. **Contribute to projects** by submitting Pull Requests.
 4. **Attend our events** and workshops.
-5. **Connect with us** on [LinkedIn](https://www.linkedin.com/school/red-hat-academy/), [Twitter](https://twitter.com/RedHat), and [Discord](#).
+5. **Connect with us** on [LinkedIn](https://www.linkedin.com/school/red-hat-academy/), [Twitter](https://twitter.com/RedHat).
 
 ## 🔐 Membership & Access
 All repositories in this organization are private by default. Access is granted to official **Red Hat Academy Organizers and Contributors**. If you’d like to contribute, reach out to us via email or social media.

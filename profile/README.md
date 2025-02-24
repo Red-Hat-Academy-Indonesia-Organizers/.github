@@ -2,7 +2,7 @@
 
 ![Red Hat Academy](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Red_Hat_Logo_2019.svg/1024px-Red_Hat_Logo_2019.svg.png)
 
-Welcome to the **Red Hat Academy Indonesia Organizers** GitHub organization! 🎉 This is the official hub for collaboration, learning, and open-source contributions driven by the passionate student ambassadors and organizers of Red Hat Academy in Indonesia.
+Welcome to the Unofficial **Red Hat Academy Indonesia Organizers** GitHub organization! 🎉 This is the official hub for collaboration, learning, and open-source contributions driven by the passionate student ambassadors and organizers of Red Hat Academy in Indonesia.
 
 ## 🚀 About Us
 We are a community of students, educators, and open-source enthusiasts dedicated to fostering **Linux**, **DevOps**, **Cloud Computing**, **Automation**, and **Cybersecurity** skills through Red Hat Academy programs. Our goal is to bridge the gap between academia and industry by providing hands-on experiences, training, and real-world projects.
